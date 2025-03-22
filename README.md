@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunchunchu&label=Profile%20views&color=0e75b6&style=flat" alt="tharunchunchu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharunchunchu" alt="tharunchunchu" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [tharunchunchu.github.io/new_pf/](tharunchunchu.github.io/new_pf/)
 
 - 📫 How to reach me **tharun.chunchu@sjsu.edu**
