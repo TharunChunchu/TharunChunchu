@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunchunchu&label=Profile%20views&color=0e75b6&style=flat" alt="tharunchunchu" /> </p>
 
+- 🔭 I’m currently working on **Building impactful Projects**
+
+- 🌱 I’m currently learning **Enterprise Software systems**
+
+- 👯 I’m looking to collaborate on **decentralized tech**
+
 - 👨‍💻 All of my projects are available at [tharunchunchu.github.io/new_pf/](tharunchunchu.github.io/new_pf/)
+
+- 💬 Ask me about **Full-Stack development**
 
 - 📫 How to reach me **tharun.chunchu@sjsu.edu**
 
