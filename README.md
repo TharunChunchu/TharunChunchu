@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Decentralized Technology**
 
-- 👨‍💻 All of my projects are available at [https://tharunchunchu.github.io/new_pf/](tharunchunchu.github.io/new_pf/)
+- 👨‍💻 All of my projects are available at [https://tharunchunchu.github.io/new_pf/]([https://tharunchunchu.github.io/new_pf/)
 
 - 💬 Ask me about **Full-Stack Development**
 
