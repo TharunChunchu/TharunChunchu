@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunchunchu&label=Profile%20views&color=0e75b6&style=flat" alt="tharunchunchu" /> </p>
 
-- 🔭 I’m currently working on **Building Impactful Projects**
+- 🔭 I’m currently working on **Building Scalable Distributed Systems**
 
-- 🌱 I’m currently learning **Enterprise Software Systems**
+- 🌱 I’m currently learning **Enterprise Software Systems && Data Science**
 
-- 👯 I’m looking to collaborate on **Decentralized Technology**
+- 👯 I’m looking to collaborate on **AI/ML projects**
 
 - 👨‍💻 All of my projects are available at <a href="https://tharunchunchu.github.io/new_pf/">https://tharunchunchu.github.io/new_pf/</a>
 - 💬 Ask me about **Full-Stack Development**
