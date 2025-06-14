@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun chunchu</h1>
-<h3 align="center">A passionate Full Stack Developer based in San Jose, California, with over 2 years of professional experience in designing and building scalable, distributed systems.</h3>
+<h3 align="center">A passionate Full Stack Developer based in San Jose, California, with over 3 years of professional experience in designing and building scalable, distributed systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunchunchu&label=Profile%20views&color=0e75b6&style=flat" alt="tharunchunchu" /> </p>
 
